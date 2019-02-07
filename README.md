@@ -1,4 +1,4 @@
-# Canada's Monetary Policy Report: if text could speak, what would it say?
+# Canada's Monetary Policy Report: If Text Could Speak, What Would It Say?
  
 André Binette <abinette@bankofcanada.ca>
 

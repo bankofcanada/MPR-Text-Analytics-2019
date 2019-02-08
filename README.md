@@ -7,7 +7,7 @@ Dmitri Tchebotarev
 -------------------------------------------------------------
 
 
-This repository contains the code and data necessary to reproduce the Bank of Canada Staff Analytical Note No. 2019-5 titled "Canada's Monetary Policy Report: if text could speak, what would it say?", [available here](https://www.bankofcanada.ca/research/browse/?content_type[]=20191).
+This repository contains the code and data necessary to reproduce the Bank of Canada Staff Analytical Note No. 2019-5 titled "Canada's Monetary Policy Report: if text could speak, what would it say?", [available here](https://www.bankofcanada.ca/2019/02/staff-analytical-note-2019-5/).
  
  
 The analytical code is contained in three notebooks:
